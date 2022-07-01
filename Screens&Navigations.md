@@ -2,8 +2,6 @@
 
 ## Screens & Navigations 
 
-:TOC:
-
 ### Screens
 
 Here's a list of screens that I intend to use in this app : 
