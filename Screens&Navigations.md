@@ -2,6 +2,8 @@
 
 ## Screens & Navigations 
 
+:TOC:
+
 ### Screens
 
 Here's a list of screens that I intend to use in this app : 
@@ -21,7 +23,7 @@ Here's a list of screens that I intend to use in this app :
 13. PRODUCT CARD : `ProductCard.js`
 14. PRODUCT SCREEN : `ProductScreen.js`
 15. ABOUT US : `AboutUs.js`
-16. CONTAT US : `ContactUs.js`
+16. CONTACT US : `ContactUs.js`
 
 additional screens:
 
