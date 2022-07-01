@@ -1,10 +1,8 @@
 # The BTC App
 
-### Screens & Navigations 
+## Screens & Navigations 
 
-[TOC]
-
-#### Screens
+### Screens
 
 Here's a list of screens that I intend to use in this app : 
 
@@ -37,7 +35,7 @@ Additional screens for the seller account:
 
 
 
-#### Navigations
+### Navigations
 
 This app requires all 4 types of navigations for effectiveness and content quality. 
 These are : 
