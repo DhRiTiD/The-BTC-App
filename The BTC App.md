@@ -1,9 +1,8 @@
-   # The BTC App
+# The BTC App
 
-### Screens
+## Screens
 
 #### `HomeScreen.js`
-
 
 
 The Home Screen is the main screen that includes :
@@ -23,7 +22,4 @@ The Home Screen is the main screen that includes :
 
 The image attached below is somewhat a prototype of the original app.
 
-![Screenshot_2022-07-02_141148-removebg-preview](Screenshot_2022-07-02_141148-removebg-preview.png)
-
-
-
+![Screenshot_2022-07-02_141148-removebg-preview](home.png)
