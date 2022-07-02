@@ -23,7 +23,7 @@ The Home Screen is the main screen that includes :
 
 The image attached below is somewhat a prototype of the original app.
 
-![Screenshot_2022-07-02_141148-removebg-preview](C:\Users\Dell\Downloads\Screenshot_2022-07-02_141148-removebg-preview.png)
+![Screenshot_2022-07-02_141148-removebg-preview](Screenshot_2022-07-02_141148-removebg-preview.png)
 
 
 
